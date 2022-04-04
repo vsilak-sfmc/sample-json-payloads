@@ -1,0 +1,241 @@
+{
+  "upcomingClasses": [
+    {
+      "clubID" : "1"
+      ,"clubName" : "Dorton"
+      ,"clubCity" : "Huangzhuang"
+      ,"contactName": "Akim Riddiford"
+      ,"contactEmail": "ariddiford0@bh.exacttarget.com"
+      ,"schedule" : [
+        {
+          "classID": "58"
+          ,"name": "Yoga"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-21 18:00"
+          ,"teacher" : "Marijo Howselee"
+        }
+      ]
+    }
+    , {
+      "clubID" : "3"
+      ,"clubName" : "Paget"
+      ,"clubCity" : "Budzvew"
+      ,"contactName": "Erny Bouchard"
+      ,"contactEmail": "ebouchard2@bh.exacttarget.com"
+      ,"schedule" : [
+        {
+          "classID": "10"
+          ,"name": "Yoga"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-18 15:00"
+          ,"teacher" : "Giuseppe Tremoille"
+        }
+      ]
+    }
+    , {
+      "clubID" : "4"
+      ,"clubName" : "Cambridge"
+      ,"clubCity" : "Kushiro"
+      ,"contactName": "Kassia Souch"
+      ,"contactEmail": "ksouch3@bh.exacttarget.com"
+      ,"schedule" : [
+        {
+          "classID": "14"
+          ,"name": "BodyPump"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-18 19:00"
+          ,"teacher" : "Adelbert Quince"
+        }
+        , {
+          "classID": "39"
+          ,"name": "Yoga"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-20 14:00"
+          ,"teacher" : "Dasha Creaney"
+        }
+      ]
+    }
+    , {
+      "clubID" : "5"
+      ,"clubName" : "Elmside"
+      ,"clubCity" : "Hellefors"
+      ,"contactName": "Titus Gemelli"
+      ,"contactEmail": "tgemelli4@bh.exacttarget.com"
+      ,"schedule" : [
+        {
+          "classID": "2"
+          ,"name": "Pilates"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-18 07:00"
+          ,"teacher" : "Davidde Linster"
+        }
+        , {
+          "classID": "31"
+          ,"name": "BodyPump"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-20 06:00"
+          ,"teacher" : "Ivory MacCole"
+        }
+      ]
+    }
+    , {
+      "clubID" : "6"
+      ,"clubName" : "Rusk"
+      ,"clubCity" : "Niuzhuang"
+      ,"contactName": "Phineas Margetson"
+      ,"contactEmail": "pmargetson5@bh.exacttarget.com"
+      ,"schedule" : [
+        {
+          "classID": "26"
+          ,"name": "Spinning"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-19 16:00"
+          ,"teacher" : "Demetre Sidon"
+        }
+      ]
+    }
+    , {
+      "clubID" : "7"
+      ,"clubName" : "Schurz"
+      ,"clubCity" : "Jayawangi"
+      ,"contactName": "Sig Youtead"
+      ,"contactEmail": "syoutead6@bh.exacttarget.com"
+      ,"schedule" : [
+        {
+          "classID": "5"
+          ,"name": "BodyPump"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-18 10:00"
+          ,"teacher" : "Karim Box"
+        }
+        , {
+          "classID": "13"
+          ,"name": "BodyPump"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-18 18:00"
+          ,"teacher" : "Elvyn Kenninghan"
+        }
+        , {
+          "classID": "24"
+          ,"name": "BodyPump"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-19 14:00"
+          ,"teacher" : "Baird De Mico"
+        }
+        , {
+          "classID": "57"
+          ,"name": "Yoga"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-21 17:00"
+          ,"teacher" : "Christin Bazire"
+        }
+      ]
+    }
+    , {
+      "clubID" : "9"
+      ,"clubName" : "Old Shore"
+      ,"clubCity" : "Trollhsttan"
+      ,"contactName": "Tedman Akam"
+      ,"contactEmail": "takam7@bh.exacttarget.com"
+      ,"schedule" : [
+        {
+          "classID": "8"
+          ,"name": "Spinning"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-18 13:00"
+          ,"teacher" : "Dorothea Westcot"
+        }
+        , {
+          "classID": "40"
+          ,"name": "Yoga"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-20 15:00"
+          ,"teacher" : "Gawain Spofforth"
+        }
+        , {
+          "classID": "59"
+          ,"name": "Spinning"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-21 19:00"
+          ,"teacher" : "Nedi Bedborough"
+        }
+      ]
+    }
+    , {
+      "clubID" : "10"
+      ,"clubName" : "Oriole"
+      ,"clubCity" : "Palla"
+      ,"contactName": "Dixie Truluck"
+      ,"contactEmail": "dtruluck9@bh.exacttarget.com"
+      ,"schedule" : [
+        {
+          "classID": "48"
+          ,"name": "Spinning"
+          ,"type": "Mind"
+          ,"datetime" : "2019-12-21 08:00"
+          ,"teacher" : "Sonny Felce"
+        }
+      ]
+    }
+  ]
+  , "purchaseConfirmation" : {
+    "orderID" : "403-9351752-8953948"
+    , "orderDate" : "2019-12-17"
+    , "customerName" : "Marge Simpson"
+    , "customerFirstName" : "Marge"
+    , "customerLastName" : "Simpson"
+    , "customerEmail" : "vlad.exacttarget+marge@gmail.com"
+    , "plannedDeliveryDate" : "2019-12-18"
+    , "deliveryType" : "FREE Next Day Delivery"
+    , "deliveryAddress" : {
+      "street" : "16 Rainforest Drive"
+      , "city" : "Cavebridge"
+      , "state" : "NT"
+      , "postcode" : "7000"
+      , "country" : "Australia"
+    }
+    , "deliveryCost" : "0" 
+    , "orderCurrency" : "AUD"
+    , "totalAmountBeforeDiscount": "349"
+    , "discountApplied" : "20"
+    , "discountAmount" : "69.8"
+    , "totalAmountPaid" : "279.2"
+    , "purchasedProducts" : [
+      {
+        "sku": "2000100"
+        , "productName": "WOMEN'S DENALI JACKET"
+        , "category" : "Womens"
+        , "subcategory" : "Jackets"
+        , "originalPrice" : "179"
+        , "purchasePrice" : "143.2"
+        , "productLink" : "http://ntoretail.com/shop/womens/jackets/2000100"
+        , "image" : "https://s3-us-west-2.amazonaws.com/nto-products/products370/2000100.jpg"
+        , "thumbnail" : "https://s3-us-west-2.amazonaws.com/nto-products/products105/2000100.jpg"
+        , "size": "S"
+      }
+      , {
+        "sku": "2604100"
+        , "productName": "ETIP GLOVE"
+        , "category" : "Womens"
+        , "subcategory" : "Accessories"
+        , "originalPrice" : "45"
+        , "purchasePrice" : "36"
+        , "productLink" : "http://ntoretail.com/shop/womens/accessories/2604100"
+        , "image" : "https://s3-us-west-2.amazonaws.com/nto-products/products370/2604100.jpg"
+        , "thumbnail" : "https://s3-us-west-2.amazonaws.com/nto-products/products105/2604100.jpg"
+        , "size": "XS"
+      }
+      , {
+        "sku": "4026100"
+        , "productName": "SURGE BACKPACK"
+        , "category" : "Gear"
+        , "subcategory" : "Bags-Backpacks"
+        , "originalPrice" : "125"
+        , "purchasePrice" : "100"
+        , "productLink" : "http://ntoretail.com/shop/gear/bags-backpacks/4026100"
+        , "image" : "https://s3-us-west-2.amazonaws.com/nto-products/products370/4026100.jpg"
+        , "thumbnail": "https://s3-us-west-2.amazonaws.com/nto-products/products105/4026100.jpg"
+      }
+    ]
+  }
+}
